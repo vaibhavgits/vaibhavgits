@@ -16,15 +16,10 @@
 
 ## 🔭 Things I could do:
 
--   Programming Language- Java, C
--   Cloud- Azure, AWS, Google Cloud
--   Source Code Management- Git
--   Containerization Tool- Docker
--   CI/CD- Jenkins
--   Scripting Language- Bash, Python
--   Database- MySQL
--   Web- HTML5, CSS3, JavaScript
--   Operating System- Windows, Linux
+-   Code in C, Java and Python.
+-   Deploy Applications on Docker
+-   Create Script File.
+-   Build Pipeline for CI/CD
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -51,6 +46,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgits&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="vaibhavgits-stats" width="400" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgits&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact" width="400"/>
 </p>
 
@@ -71,6 +68,6 @@ Always ready to colabrate with different people and their weird ideas and stuffs
     <img src="https://komarev.com/ghpvc/?username=vaibhavgits&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
 </p>
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/devops.png" width="350" height="350"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5687/5687273.png" width="350" height="350"/>
 <h3 align="center">&lt;Review my code & Star my repositories&gt;</h3>
 </p>
