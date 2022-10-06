@@ -16,9 +16,15 @@
 
 ## 🔭 Things I could do:
 
--   Code in C, C++, Python, JavaScript.
--   Technologies I use React, NodeJS.
--   My IDE Visual Studio Code.
+-   Programming Language- Java, C
+-   Cloud- Azure, AWS, Google Cloud
+-   Source Code Management- Git
+-   Containerization Tool- Docker
+-   CI/CD- Jenkins
+-   Scripting Language- Bash, Python
+-   Database- MySQL
+-   Web- HTML5, CSS3, JavaScript
+-   Operating System- Windows, Linux
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -28,9 +34,9 @@
   <img src="https://img.icons8.com/color/50/000000/bash.png"/>
 </p>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/aws.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon.png"/>
   <img src="https://img.icons8.com/color/48/000000/azure.png"/>
-  <img src="https://img.icons8.com/color/48/000000/gcp.png"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
@@ -44,8 +50,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgits&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="vaibhavgits-stats" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgits&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgits&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="vaibhavgits-stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgits&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact" width="400"/>
 </p>
 
 
@@ -65,6 +71,6 @@ Always ready to colabrate with different people and their weird ideas and stuffs
     <img src="https://komarev.com/ghpvc/?username=vaibhavgits&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
 </p>
 <p align="center">
-<img src="./assets/welcometocat.png" width="350" height="350" >
+<img src="https://www.seekpng.com/ipng/u2q8a9i1r5e6w7y3_free-hosting-with-github-pages-octopus-cat-github/" width="350" height="350" >
 <h3 align="center">&lt;Review my code & Star my repositories&gt;</h3>
 </p>
