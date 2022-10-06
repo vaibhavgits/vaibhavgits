@@ -71,6 +71,6 @@ Always ready to colabrate with different people and their weird ideas and stuffs
     <img src="https://komarev.com/ghpvc/?username=vaibhavgits&label=Profile%20views&color=blueviolet&style=flat" alt="count" />
 </p>
 <p align="center">
-<img src="https://www.seekpng.com/ipng/u2q8a9i1r5e6w7y3_free-hosting-with-github-pages-octopus-cat-github/"/>
+<img src="https://img.icons8.com/color/48/000000/devops.png" width="350" height="350"/>
 <h3 align="center">&lt;Review my code & Star my repositories&gt;</h3>
 </p>
