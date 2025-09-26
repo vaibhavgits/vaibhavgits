@@ -34,12 +34,12 @@
   <img src="https://img.icons8.com/color/50/000000/bash.png"/>
 </p>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/amazon.png"/>
+  <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/azure.png"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+  <img src="https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000"/>
   <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
 </p>
 <p align="center">
