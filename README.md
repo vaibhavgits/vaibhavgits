@@ -16,10 +16,15 @@
 
 ## 🔭 Things I could do:
 
--   Code in C, Java and Python.
--   Deploy Applications on Docker
--   Create Script File.
+-   Code in C, Java and Python
+-   Deploy AWS Services
+-   Work on Linux based OS
 -   Build Pipeline for CI/CD
+-   Deploy an applications on Docker
+-   Orchestrate the application using Kubernetes
+-   Monitor the application deployed using Prometheus and Grafana
+-   Create Script file
+
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
